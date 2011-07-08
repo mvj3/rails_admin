@@ -96,6 +96,11 @@ zh_cn:
       dashboard: "dashboard"
   datetime:
     distance_in_words:
+      about_x_months: "大约%{count}月"
+      about_x_days: "大约%{count}天"
+      about_x_hours: "大约%{count}小时"
+      about_x_minutes: "大约%{count}分钟"
+      x_months: "%{count}月"
       x_days: "%{count}天"
       x_hours: "%{count}小时"
       x_minutes: "%{count}分钟"
